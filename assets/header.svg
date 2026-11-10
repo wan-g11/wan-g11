@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="112" viewBox="0 0 960 112" role="img" aria-labelledby="title description">
   <title id="title">wan_g · Penghao Wan</title>
   <desc id="description">Learning through building. Python and AI applications.</desc>
-  <rect width="960" height="220" rx="8" fill="#15181c"/>
-  <path d="M48 48H912" stroke="#343b43"/>
-  <rect x="48" y="47" width="104" height="2" fill="#42d3b0"/>
-  <text x="48" y="86" fill="#42d3b0" font-family="Consolas,monospace" font-size="14">PYTHON / AI APPLICATIONS</text>
-  <text x="48" y="146" fill="#f4f6f8" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="600">wan_g</text>
-  <text x="49" y="184" fill="#aeb7c2" font-family="Segoe UI,Arial,sans-serif" font-size="18">Penghao Wan · Learning through building.</text>
-  <path d="M850 98L870 118L850 138" fill="none" stroke="#42d3b0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M882 139H908" stroke="#f4f6f8" stroke-width="4" stroke-linecap="round"/>
+  <rect width="960" height="112" rx="8" fill="#15181c"/>
+  <text x="0" y="48" fill="#f4f6f8" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="600">wan_g <tspan fill="#42d3b0" font-size="23" font-weight="400">/ Penghao Wan</tspan></text>
+  <text x="0" y="85" fill="#aeb7c2" font-family="Segoe UI,Arial,sans-serif" font-size="18">Learning through building.</text>
 </svg>
